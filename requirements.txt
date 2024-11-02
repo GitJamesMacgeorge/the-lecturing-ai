@@ -1,0 +1,3 @@
+google.generativeai
+markdown-pdf
+pypdf==5.1.0
